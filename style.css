@@ -9,6 +9,7 @@ body {
     background-color: var(--background);
     margin: 0;
     padding: 0;
+    height: auto;
     box-sizing: border-box;
     background: var(--gradient);
     background-size: cover;
@@ -17,7 +18,7 @@ body {
 }
 
 header {
-    height: 100px;
+    height: 135px;
 }
 
 header h1 {
@@ -36,7 +37,7 @@ div.clock {
     align-items: center;
     justify-content: center;
     margin: auto;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     padding: 20px;
 }
 
